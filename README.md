@@ -27,7 +27,7 @@ Here are some of my notable achievements:
 - **Certificate in Adv Python Programming [CISCO & OpenEDG Python Institute]**: Complete Advanced techniques of Python Programming.
 
 <p align="center">
-       <img src="https://www.linkedin.com/posts/imad-khan-091478236_i-am-pleased-to-share-that-i-have-successfully-activity-7215444766136627200-LWpK?utm_source=share&utm_medium=member_desktop" /> 
+       <img src=https://github.com/Imadkhan12/CV/blob/Certificate/Screenshot%202024-11-03%20155557.png" /> 
        </p>
 
 ## Programming Languages and Technologies 🛠️:
