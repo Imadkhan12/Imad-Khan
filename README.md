@@ -16,30 +16,27 @@ Here are some ideas to get you started:
 - 📧 You can contact me at **kahnimad35@gmail.com**
 - ⚡ In my free time, I trade forex.
 
-
 ## My Skill Set 🛠️:
-<a href="https://github.com/ImadKhan">
+<a href="https://github.com/ImadKhan12">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,git,github&theme=light" /> 
 </div>
 </a>
 
-
 ## Github Stats📈:
  
 <p align="center">
-    <a href="https://github.com/ImadKhan">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImadKhan&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/ImadKhan12">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImadKhan12&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
  <p align="center">
-   <a href="https://github.com/ImadKhan"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan&theme=algolia&hide_border=true" /> 
+   <a href="https://github.com/ImadKhan12"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan12&theme=algolia&hide_border=true" /> 
    </a>  
  </p>
-
 
 ## Connect with me🤝:
 
@@ -48,4 +45,4 @@ Here are some ideas to get you started:
     <a target="_blank" href="mailto:kahnimad35@gmail.com"><img src="https://img.shields.io/badge/-kahnimad35@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
-<p align="center">Let's collaborate and create amazing projects together!<
+<p align="center">Let's collaborate and create amazing projects together!</p>
