@@ -24,9 +24,9 @@ Here are some of my notable achievements:
 - **Winner of [Kamyab Jawan Program]**: Secured the position in a hackathon, demonstrating problem-solving and teamwork skills.
 - **Certificate in Data Visualization**: Gained expertise in data visualization tools and techniques, enhancing my ability to present data insights.
 - **Certificate in Adv Python Programming [NAVTCC]**: Successfully completed a specialized course focused on advanced concepts in Python programming, enhancing my skills in object-oriented programming, data structures, and software development best practices.
-- **Certificate in Adv Python Programming [CISCO & OoenEDG Python Institute]**: Complete Advanced techniques of Python Programming.
+- **Certificate in Adv Python Programming [CISCO & OpenEDG Python Institute]**: Complete Advanced techniques of Python Programming.
 
-<p align="center"><img src="https://media.giphy.com/media/l0Exg0FStg4FsKsoU/giphy.gif" height="160"></p>
+<p align="center"><img src="[https://media.giphy.com/media/l0Exg0FStg4FsKsoU/giphy.gif](https://www.linkedin.com/posts/imad-khan-091478236_i-am-pleased-to-share-that-i-have-successfully-activity-7215444766136627200-LWpK?utm_source=share&utm_medium=member_desktop)" height="160"></p>
 
 ## Programming Languages and Technologies 🛠️:
 
