@@ -16,19 +16,30 @@ Here are some ideas to get you started:
 - 📧 You can contact me at **kahnimad35@gmail.com**
 - ⚡ In my free time, I trade forex.
 
+## Achievements 🎉
+
+Here are some of my notable achievements:
+
+- **Certificate in Machine Learning**: Completed a comprehensive course on machine learning techniques and applications.
+- **Winner of [Kamyab Jawan Program ]**: Secured the position in a hackathon, demonstrating problem-solving and teamwork skills.
+- **Certificate in Data Visualization**: Gained expertise in data visualization tools and techniques, enhancing my ability to present data insights.
+- **Certificate in Adv Python Programming [NAVTCC]**: Successfully completed a specialized course focused on advanced concepts in Python programming, enhancing my skills in object-oriented programming, data structures, and software development best practices.
+
+<p align="center"><img src="https://media.giphy.com/media/l0Exg0FStg4FsKsoU/giphy.gif" height="160"></p>
+
 ## Programming Languages and Technologies 🛠️:
 
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,html,css,mysql,git,github,wordpress&theme=light" /> 
 </div>
 
-
 - **Programming Languages**: Python, HTML, CSS
 - **Technologies**: Machine Learning (scikit-learn), Neural Networks (TensorFlow), WordPress, Git, GitHub, MySQL
 
 ## GitHub Stats 📈
 
-<p align="center"> <a href="https://github.com/ImadKhan"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> </a> </p> <p align="center"> <a href="https://github.com/ImadKhan"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan&theme=algolia&hide_border=true" /> </a> </p>
+<p align="center"> <a href="https://github.com/ImadKhan"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> </a> </p> 
+<p align="center"> <a href="https://github.com/ImadKhan"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan&theme=algolia&hide_border=true" /> </a> </p>
 
 ## Connect with me🤝:
 
