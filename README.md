@@ -36,10 +36,11 @@ Here are some of my notable achievements:
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,html,css,mysql,git,github,wordpress&theme=light" /> 
 </div>
-<div>
+<p>
 - **Programming Languages**: Python, HTML, CSS
 - **Technologies**: Machine Learning (scikit-learn), Neural Networks (TensorFlow), WordPress, Git, GitHub, MySQL
-</div>
+</p>
+
 ## GitHub Stats 📈
 
 <p align="center"> <a href="https://github.com/ImadKhan"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> </a> </p> 
