@@ -17,27 +17,17 @@ Here are some ideas to get you started:
 - ⚡ In my free time, I trade forex.
 
 ## Programming Languages and Technologies 🛠️:
+
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,html,css,mysql,git,github,wordpress&theme=light" /> 
 </div>
 
+
 - **Programming Languages**: Python, HTML, CSS
 - **Technologies**: Machine Learning (scikit-learn), Neural Networks (TensorFlow), WordPress, Git, GitHub, MySQL
 
-## Github Stats📈:
- 
-<p align="center">
-    <a href="https://github.com/ImadKhan">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImadKhan&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-
- <p align="center">
-   <a href="https://github.com/ImadKhan"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan&theme=algolia&hide_border=true" /> 
-   </a>  
- </p>
+GitHub Stats 📈
+<p align="center"> <a href="https://github.com/ImadKhan"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> </a> </p> <p align="center"> <a href="https://github.com/ImadKhan"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan&theme=algolia&hide_border=true" /> </a> </p>
 
 ## Connect with me🤝:
 
