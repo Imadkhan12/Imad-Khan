@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Here are some of my notable achievements:
 
-- **Certificate in Machine Learning**: Completed a comprehensive course on machine learning techniques and applications.
+- **Certificate's in Machine Learning**: Completed a comprehensive courses on machine learning techniques and applications.
 - **Winner of [Kamyab Jawan Program]**: Secured the position in a hackathon, demonstrating problem-solving and teamwork skills.
 - **Certificate in Data Visualization**: Gained expertise in data visualization tools and techniques, enhancing my ability to present data insights.
 - **Certificate in Adv Python Programming [NAVTCC]**: Successfully completed a specialized course focused on advanced concepts in Python programming, enhancing my skills in object-oriented programming, data structures, and software development best practices.
