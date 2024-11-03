@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 - 📧 You can contact me at **kahnimad35@gmail.com**
 - ⚡ In my free time, I trade forex.
 
-## My Skill Set 🛠️:
-<a href="https://github.com/ImadKhan12">
+## Programming Languages and Technologies 🛠️:
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,git,github,wordpress&theme=light" /> 
+       <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,html,css,mysql,git,github,wordpress&theme=light" /> 
 </div>
-</a>
+
+- **Programming Languages**: Python, HTML, CSS
+- **Technologies**: Machine Learning (scikit-learn), Neural Networks (TensorFlow), WordPress, Git, GitHub, MySQL
 
 ## Github Stats📈:
  
