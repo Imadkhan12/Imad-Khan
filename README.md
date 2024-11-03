@@ -11,8 +11,8 @@ My role involves translating complex data into clear insights, empowering our te
 Here are some ideas to get you started:
 - 🥈 Hackathon Winner
 - 🔭 Passionate about Machine Learning and Neural Networks
-- 🧠 Focus on Python and Data Science
-- 🌱 Skilled in WordPress development
+- 🧠 Focus on New Technologies based on AI
+- 🌱 Skilled in WordPress, HTML/CSS/JAVASCRIPT & REACT development
 - 📧 You can contact me at **kahnimad35@gmail.com**
 - ⚡ In my free time, I trade forex.
 
