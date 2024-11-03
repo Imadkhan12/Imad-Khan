@@ -3,23 +3,23 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Imad Khan</h1>
 
 ## About me🚀:
-As a Machine Learning Engineer, I specialized in crafting robust machine learning data pipelines and optimizing workflows, a testament to my data engineering acumen. My commitment to excellence is evident in my pursuit of a Bachelor of Science in AI and Data Science at the University of Engineering & Technology Peshawar, where I'm honing my expertise in deep learning and data-driven decision-making.
+As a Machine Learning Engineer, I specialize in crafting robust machine learning data pipelines and optimizing workflows, a testament to my data engineering acumen. My commitment to excellence is evident in my pursuit of a Bachelor of Science in AI and Data Science at the University of Engineering & Technology Peshawar, where I'm honing my expertise in deep learning and data-driven decision-making.
 
-My role involved translating complex data into clear insights, empowering our team to make informed decisions and drive innovation. With a keen eye for data visualization, I communicated intricate information effectively, supporting the full spectrum of the data science process. I am eager to continue contributing my skills to meaningful projects that leverage cutting-edge AI and data science techniques.
+My role involves translating complex data into clear insights, empowering our team to make informed decisions and drive innovation. With a keen eye for data visualization, I communicate intricate information effectively, supporting the full spectrum of the data science process. I am eager to continue contributing my skills to meaningful projects that leverage cutting-edge AI and data science techniques.
 <p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="160"> </p>
 
 Here are some ideas to get you started:
-- 🥈 Hackathon Winner 
-- 🔭 Passionate about Machine learning
-- 🧠 Focus on Neural Networks
-- 🌱 BS in Data Science
+- 🥈 Hackathon Winner
+- 🔭 Passionate about Machine Learning and Neural Networks
+- 🧠 Focus on Python and Data Science
+- 🌱 Skilled in WordPress development
 - 📧 You can contact me at **kahnimad35@gmail.com**
 - ⚡ In my free time, I trade forex.
 
 ## My Skill Set 🛠️:
 <a href="https://github.com/ImadKhan12">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,git,github&theme=light" /> 
+       <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,git,github,wordpress&theme=light" /> 
 </div>
 </a>
 
