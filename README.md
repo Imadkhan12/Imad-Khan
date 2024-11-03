@@ -28,7 +28,7 @@ Here are some of my notable achievements:
 
 <p align="center">
        <img src="https://github.com/Imadkhan12/CV/blob/main/Screenshot%202024-11-03%20155557.png" />
-      <img src="https://github.com/Imadkhan12/CV/blob/main/WhatsApp%20Image%202024-11-03%20at%2023.18.10_156bb232.jpg" width="800" height="800" />
+      <img src="https://github.com/Imadkhan12/CV/blob/main/WhatsApp%20Image%202024-11-03%20at%2023.18.10_156bb232.jpg" width="800" height="650" />
        </p>
 
 ## Programming Languages and Technologies 🛠️:
