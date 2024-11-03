@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - **Programming Languages**: Python, HTML, CSS
 - **Technologies**: Machine Learning (scikit-learn), Neural Networks (TensorFlow), WordPress, Git, GitHub, MySQL
 
-GitHub Stats 📈
+## GitHub Stats 📈
+
 <p align="center"> <a href="https://github.com/ImadKhan"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImadKhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> </a> </p> <p align="center"> <a href="https://github.com/ImadKhan"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImadKhan&theme=algolia&hide_border=true" /> </a> </p>
 
 ## Connect with me🤝:
