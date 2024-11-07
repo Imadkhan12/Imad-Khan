@@ -27,8 +27,9 @@ Here are some of my notable achievements:
 - **Certificate in Adv Python Programming [CISCO & OpenEDG Python Institute]**: Complete Advanced techniques of Python Programming.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Imadkhan12/CV/blob/main/Screenshot%202024-11-03%20155557.png" width="400" />
     <img src="https://github.com/Imadkhan12/CV/blob/main/WhatsApp%20Image%202024-11-03%20at%2023.18.10_156bb232.jpg" width="400" style="margin-left: 10px;" />
+    <img src="https://github.com/Imadkhan12/CV/blob/main/Screenshot%202024-11-03%20155557.png" width="400" />
+    <img src="https://github.com/Imadkhan12/CV/blob/main/Partner-_PCAP_-_Programming_Essentials_in_Python_certificate_kahnimad35-gmail-com_b953f367-06f3-4833-b23b-240be1920a2a.pdf" width="400" />
 </div>
 
 
