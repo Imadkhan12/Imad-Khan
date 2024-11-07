@@ -26,10 +26,11 @@ Here are some of my notable achievements:
 - **Certificate in Adv Python Programming [NAVTCC]**: Successfully completed a specialized course focused on advanced concepts in Python programming, enhancing my skills in object-oriented programming, data structures, and software development best practices.
 - **Certificate in Adv Python Programming [CISCO & OpenEDG Python Institute]**: Complete Advanced techniques of Python Programming.
 
-<p align="center">
-       <img src="https://github.com/Imadkhan12/CV/blob/main/Screenshot%202024-11-03%20155557.png" />
-      <img src="https://github.com/Imadkhan12/CV/blob/main/WhatsApp%20Image%202024-11-03%20at%2023.18.10_156bb232.jpg" width="730" height="500" />
-       </p>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Imadkhan12/CV/blob/main/Screenshot%202024-11-03%20155557.png" />
+    <img src="https://github.com/Imadkhan12/CV/blob/main/WhatsApp%20Image%202024-11-03%20at%2023.18.10_156bb232.jpg" width="730" height="500" />
+</div>
+
 
 ## Programming Languages and Technologies 🛠️:
 
